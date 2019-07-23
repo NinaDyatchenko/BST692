@@ -1,0 +1,12 @@
+name: burndata
+title:
+username:
+account: ninadyatchenko
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1002698
+bundleId: 2186234
+url: https://ninadyatchenko.shinyapps.io/burndata/
+when: 1561742666.09675
+asMultiple: FALSE
+asStatic: FALSE
